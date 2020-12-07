@@ -1,0 +1,12 @@
+#-----------------------------------------------------------
+# Vivado v2018.3.1 (64-bit)
+# SW Build 2489853 on Tue Mar 26 04:20:25 MDT 2019
+# IP Build 2486929 on Tue Mar 26 06:44:21 MDT 2019
+# Start of session at: Thu Aug 27 20:54:15 2020
+# Process ID: 42228
+# Current directory: F:/.shortcut-targets-by-id/18l05k5DVoB5pVKzFoiXH5izoP1FLnSFh/Project_group15/bin2bcd/bin2bcd.runs/synth_1
+# Command line: vivado.exe -log binary_bcd.vds -product Vivado -mode batch -messageDb vivado.pb -notrace -source binary_bcd.tcl
+# Log file: F:/.shortcut-targets-by-id/18l05k5DVoB5pVKzFoiXH5izoP1FLnSFh/Project_group15/bin2bcd/bin2bcd.runs/synth_1/binary_bcd.vds
+# Journal file: F:/.shortcut-targets-by-id/18l05k5DVoB5pVKzFoiXH5izoP1FLnSFh/Project_group15/bin2bcd/bin2bcd.runs/synth_1\vivado.jou
+#-----------------------------------------------------------
+source binary_bcd.tcl -notrace
