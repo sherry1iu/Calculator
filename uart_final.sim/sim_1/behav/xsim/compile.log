@@ -1,0 +1,10 @@
+INFO: [VRFC 10-163] Analyzing VHDL file "G:/.shortcut-targets-by-id/18l05k5DVoB5pVKzFoiXH5izoP1FLnSFh/Project_group15/uart_final/uart_final.srcs/sources_1/imports/new/SerialRX.vhd" into library xil_defaultlib
+INFO: [VRFC 10-3107] analyzing entity 'SerialRX'
+INFO: [VRFC 10-163] Analyzing VHDL file "G:/.shortcut-targets-by-id/18l05k5DVoB5pVKzFoiXH5izoP1FLnSFh/Project_group15/uart_final/uart_final.srcs/sources_1/imports/Old_Lab5/SerialTx.vhd" into library xil_defaultlib
+INFO: [VRFC 10-3107] analyzing entity 'SerialTx'
+INFO: [VRFC 10-163] Analyzing VHDL file "G:/.shortcut-targets-by-id/18l05k5DVoB5pVKzFoiXH5izoP1FLnSFh/Project_group15/uart_final/uart_final.srcs/sources_1/imports/Old_Lab5/lab5top.vhd" into library xil_defaultlib
+INFO: [VRFC 10-3107] analyzing entity 'lab5top'
+INFO: [VRFC 10-163] Analyzing VHDL file "G:/.shortcut-targets-by-id/18l05k5DVoB5pVKzFoiXH5izoP1FLnSFh/Project_group15/uart_final/uart_final.srcs/sources_1/imports/CS56_ES31_Lab4_20X_files/mux7seg.vhd" into library xil_defaultlib
+INFO: [VRFC 10-3107] analyzing entity 'mux7seg'
+INFO: [VRFC 10-163] Analyzing VHDL file "G:/.shortcut-targets-by-id/18l05k5DVoB5pVKzFoiXH5izoP1FLnSFh/Project_group15/uart_final/uart_final.srcs/sim_1/new/uart_tb.vhd" into library xil_defaultlib
+INFO: [VRFC 10-3107] analyzing entity 'SerialRx_tb'

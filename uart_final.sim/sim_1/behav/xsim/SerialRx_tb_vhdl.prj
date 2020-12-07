@@ -1,0 +1,10 @@
+# compile vhdl design source files
+vhdl xil_defaultlib  \
+"../../../../uart_final.srcs/sources_1/imports/new/SerialRX.vhd" \
+"../../../../uart_final.srcs/sources_1/imports/Old_Lab5/SerialTx.vhd" \
+"../../../../uart_final.srcs/sources_1/imports/Old_Lab5/lab5top.vhd" \
+"../../../../uart_final.srcs/sources_1/imports/CS56_ES31_Lab4_20X_files/mux7seg.vhd" \
+"../../../../uart_final.srcs/sim_1/new/uart_tb.vhd" \
+
+# Do not sort compile order
+nosort
