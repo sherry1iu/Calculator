@@ -1,0 +1,7 @@
+# compile vhdl design source files
+vhdl xil_defaultlib  \
+"../../../../7seg.srcs/sources_1/imports/CS56_ES31_Lab4_20X_files/mux7seg.vhd" \
+"../../../../7seg.srcs/sim_1/new/7seg_tb.vhd" \
+
+# Do not sort compile order
+nosort
