@@ -1,0 +1,12 @@
+#-----------------------------------------------------------
+# Vivado v2018.3.1 (64-bit)
+# SW Build 2489853 on Tue Mar 26 04:20:25 MDT 2019
+# IP Build 2486929 on Tue Mar 26 06:44:21 MDT 2019
+# Start of session at: Tue Sep  1 18:31:22 2020
+# Process ID: 19712
+# Current directory: G:/.shortcut-targets-by-id/18l05k5DVoB5pVKzFoiXH5izoP1FLnSFh/Project_group15/Calculator/Calculator.runs/impl_1
+# Command line: vivado.exe -log lab5top.vdi -applog -product Vivado -messageDb vivado.pb -mode batch -source lab5top.tcl -notrace
+# Log file: G:/.shortcut-targets-by-id/18l05k5DVoB5pVKzFoiXH5izoP1FLnSFh/Project_group15/Calculator/Calculator.runs/impl_1/lab5top.vdi
+# Journal file: G:/.shortcut-targets-by-id/18l05k5DVoB5pVKzFoiXH5izoP1FLnSFh/Project_group15/Calculator/Calculator.runs/impl_1\vivado.jou
+#-----------------------------------------------------------
+source lab5top.tcl -notrace

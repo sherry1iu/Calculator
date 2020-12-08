@@ -1,0 +1,13 @@
+# compile vhdl design source files
+vhdl xil_defaultlib  \
+"../../../../Calculator.srcs/sources_1/ip/div_gen_0_1/sim/div_gen_0.vhd" \
+"../../../../Calculator.srcs/sources_1/imports/Project_group15/uart_final/uart_final.srcs/sources_1/imports/new/SerialRX.vhd" \
+"../../../../Calculator.srcs/sources_1/imports/Project_group15/Datapath_M/Datapath_M.srcs/sources_1/imports/new/add_controller.vhd" \
+"../../../../Calculator.srcs/sources_1/imports/new/bin2bcd.vhd" \
+"../../../../Calculator.srcs/sources_1/imports/Project_group15/Datapath_M/Datapath_M.srcs/sources_1/imports/new/datapath.vhd" \
+"../../../../Calculator.srcs/sources_1/imports/Project_group15/uart_final/uart_final.srcs/sources_1/imports/Old_Lab5/lab5top.vhd" \
+"../../../../Calculator.srcs/sources_1/imports/Project_group15/uart_final/uart_final.srcs/sources_1/imports/CS56_ES31_Lab4_20X_files/mux7seg.vhd" \
+"../../../../Calculator.srcs/sim_1/imports/new/uart_tb.vhd" \
+
+# Do not sort compile order
+nosort

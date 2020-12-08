@@ -1,0 +1,168 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GenRun Id="impl_1" LaunchPart="xc7a35tcpg236-1" LaunchTime="1598984977">
+  <File Type="BITSTR-BMM" Name="lab5top_bd.bmm"/>
+  <File Type="OPT-METHODOLOGY-DRC" Name="lab5top_methodology_drc_opted.rpt"/>
+  <File Type="INIT-TIMING" Name="lab5top_timing_summary_init.rpt"/>
+  <File Type="ROUTE-PWR" Name="lab5top_power_routed.rpt"/>
+  <File Type="PA-TCL" Name="lab5top.tcl"/>
+  <File Type="OPT-TIMING" Name="lab5top_timing_summary_opted.rpt"/>
+  <File Type="OPT-DCP" Name="lab5top_opt.dcp"/>
+  <File Type="ROUTE-PWR-SUM" Name="lab5top_power_summary_routed.pb"/>
+  <File Type="REPORTS-TCL" Name="lab5top_reports.tcl"/>
+  <File Type="OPT-DRC" Name="lab5top_drc_opted.rpt"/>
+  <File Type="OPT-HWDEF" Name="lab5top.hwdef"/>
+  <File Type="PWROPT-DCP" Name="lab5top_pwropt.dcp"/>
+  <File Type="PWROPT-DRC" Name="lab5top_drc_pwropted.rpt"/>
+  <File Type="PWROPT-TIMING" Name="lab5top_timing_summary_pwropted.rpt"/>
+  <File Type="PLACE-DCP" Name="lab5top_placed.dcp"/>
+  <File Type="PLACE-IO" Name="lab5top_io_placed.rpt"/>
+  <File Type="PLACE-CLK" Name="lab5top_clock_utilization_placed.rpt"/>
+  <File Type="PLACE-UTIL" Name="lab5top_utilization_placed.rpt"/>
+  <File Type="PLACE-UTIL-PB" Name="lab5top_utilization_placed.pb"/>
+  <File Type="PLACE-CTRL" Name="lab5top_control_sets_placed.rpt"/>
+  <File Type="PLACE-SIMILARITY" Name="lab5top_incremental_reuse_placed.rpt"/>
+  <File Type="PLACE-PRE-SIMILARITY" Name="lab5top_incremental_reuse_pre_placed.rpt"/>
+  <File Type="BG-BGN" Name="lab5top.bgn"/>
+  <File Type="PLACE-TIMING" Name="lab5top_timing_summary_placed.rpt"/>
+  <File Type="POSTPLACE-PWROPT-DCP" Name="lab5top_postplace_pwropt.dcp"/>
+  <File Type="BG-BIN" Name="lab5top.bin"/>
+  <File Type="POSTPLACE-PWROPT-TIMING" Name="lab5top_timing_summary_postplace_pwropted.rpt"/>
+  <File Type="PHYSOPT-DCP" Name="lab5top_physopt.dcp"/>
+  <File Type="PHYSOPT-DRC" Name="lab5top_drc_physopted.rpt"/>
+  <File Type="BITSTR-MSK" Name="lab5top.msk"/>
+  <File Type="PHYSOPT-TIMING" Name="lab5top_timing_summary_physopted.rpt"/>
+  <File Type="ROUTE-ERROR-DCP" Name="lab5top_routed_error.dcp"/>
+  <File Type="ROUTE-DCP" Name="lab5top_routed.dcp"/>
+  <File Type="ROUTE-BLACKBOX-DCP" Name="lab5top_routed_bb.dcp"/>
+  <File Type="ROUTE-DRC" Name="lab5top_drc_routed.rpt"/>
+  <File Type="ROUTE-DRC-PB" Name="lab5top_drc_routed.pb"/>
+  <File Type="BITSTR-LTX" Name="debug_nets.ltx"/>
+  <File Type="BITSTR-LTX" Name="lab5top.ltx"/>
+  <File Type="ROUTE-DRC-RPX" Name="lab5top_drc_routed.rpx"/>
+  <File Type="BITSTR-MMI" Name="lab5top.mmi"/>
+  <File Type="ROUTE-METHODOLOGY-DRC" Name="lab5top_methodology_drc_routed.rpt"/>
+  <File Type="ROUTE-METHODOLOGY-DRC-RPX" Name="lab5top_methodology_drc_routed.rpx"/>
+  <File Type="BITSTR-SYSDEF" Name="lab5top.sysdef"/>
+  <File Type="ROUTE-METHODOLOGY-DRC-PB" Name="lab5top_methodology_drc_routed.pb"/>
+  <File Type="ROUTE-PWR-RPX" Name="lab5top_power_routed.rpx"/>
+  <File Type="ROUTE-STATUS" Name="lab5top_route_status.rpt"/>
+  <File Type="ROUTE-STATUS-PB" Name="lab5top_route_status.pb"/>
+  <File Type="ROUTE-TIMINGSUMMARY" Name="lab5top_timing_summary_routed.rpt"/>
+  <File Type="ROUTE-TIMING-PB" Name="lab5top_timing_summary_routed.pb"/>
+  <File Type="ROUTE-TIMING-RPX" Name="lab5top_timing_summary_routed.rpx"/>
+  <File Type="ROUTE-SIMILARITY" Name="lab5top_incremental_reuse_routed.rpt"/>
+  <File Type="ROUTE-CLK" Name="lab5top_clock_utilization_routed.rpt"/>
+  <File Type="ROUTE-BUS-SKEW" Name="lab5top_bus_skew_routed.rpt"/>
+  <File Type="ROUTE-BUS-SKEW-PB" Name="lab5top_bus_skew_routed.pb"/>
+  <File Type="ROUTE-BUS-SKEW-RPX" Name="lab5top_bus_skew_routed.rpx"/>
+  <File Type="POSTROUTE-PHYSOPT-DCP" Name="lab5top_postroute_physopt.dcp"/>
+  <File Type="POSTROUTE-PHYSOPT-BLACKBOX-DCP" Name="lab5top_postroute_physopt_bb.dcp"/>
+  <File Type="POSTROUTE-PHYSOPT-TIMING" Name="lab5top_timing_summary_postroute_physopted.rpt"/>
+  <File Type="POSTROUTE-PHYSOPT-TIMING-PB" Name="lab5top_timing_summary_postroute_physopted.pb"/>
+  <File Type="POSTROUTE-PHYSOPT-TIMING-RPX" Name="lab5top_timing_summary_postroute_physopted.rpx"/>
+  <File Type="POSTROUTE-PHYSOPT-BUS-SKEW" Name="lab5top_bus_skew_postroute_physopted.rpt"/>
+  <File Type="POSTROUTE-PHYSOPT-BUS-SKEW-PB" Name="lab5top_bus_skew_postroute_physopted.pb"/>
+  <File Type="BG-BIT" Name="lab5top.bit"/>
+  <File Type="POSTROUTE-PHYSOPT-BUS-SKEW-RPX" Name="lab5top_bus_skew_postroute_physopted.rpx"/>
+  <File Type="BITSTR-RBT" Name="lab5top.rbt"/>
+  <File Type="BITSTR-NKY" Name="lab5top.nky"/>
+  <File Type="BG-DRC" Name="lab5top.drc"/>
+  <File Type="RDI-RDI" Name="lab5top.vdi"/>
+  <File Type="WBT-USG" Name="usage_statistics_webtalk.html"/>
+  <FileSet Name="sources" Type="DesignSrcs" RelSrcDir="$PSRCDIR/sources_1">
+    <Filter Type="Srcs"/>
+    <File Path="$PSRCDIR/sources_1/imports/Project_group15/uart_final/uart_final.srcs/sources_1/imports/new/SerialRX.vhd">
+      <FileInfo>
+        <Attr Name="ImportPath" Val="$PPRDIR/../uart_final/uart_final.srcs/sources_1/imports/new/SerialRX.vhd"/>
+        <Attr Name="ImportTime" Val="1598407666"/>
+        <Attr Name="UsedIn" Val="synthesis"/>
+        <Attr Name="UsedIn" Val="simulation"/>
+      </FileInfo>
+    </File>
+    <File Path="$PSRCDIR/sources_1/imports/Project_group15/Datapath_M/Datapath_M.srcs/sources_1/imports/new/add_controller.vhd">
+      <FileInfo>
+        <Attr Name="ImportPath" Val="$PPRDIR/../Datapath_M/Datapath_M.srcs/sources_1/imports/new/add_controller.vhd"/>
+        <Attr Name="ImportTime" Val="1598470658"/>
+        <Attr Name="UsedIn" Val="synthesis"/>
+        <Attr Name="UsedIn" Val="simulation"/>
+      </FileInfo>
+    </File>
+    <File Path="$PSRCDIR/sources_1/imports/new/bin2bcd.vhd">
+      <FileInfo>
+        <Attr Name="ImportPath" Val="$PPRDIR/../bin2bcd/bin2bcd.srcs/sources_1/new/bin2bcd.vhd"/>
+        <Attr Name="ImportTime" Val="1598561623"/>
+        <Attr Name="UsedIn" Val="synthesis"/>
+        <Attr Name="UsedIn" Val="simulation"/>
+      </FileInfo>
+    </File>
+    <File Path="$PSRCDIR/sources_1/imports/Project_group15/Datapath_M/Datapath_M.srcs/sources_1/imports/new/datapath.vhd">
+      <FileInfo>
+        <Attr Name="ImportPath" Val="$PPRDIR/../Datapath_M/Datapath_M.srcs/sources_1/imports/new/datapath.vhd"/>
+        <Attr Name="ImportTime" Val="1598474479"/>
+        <Attr Name="UsedIn" Val="synthesis"/>
+        <Attr Name="UsedIn" Val="simulation"/>
+      </FileInfo>
+    </File>
+    <File Path="$PSRCDIR/sources_1/imports/Project_group15/uart_final/uart_final.srcs/sources_1/imports/CS56_ES31_Lab4_20X_files/mux7seg.vhd">
+      <FileInfo>
+        <Attr Name="ImportPath" Val="$PPRDIR/../uart_final/uart_final.srcs/sources_1/imports/CS56_ES31_Lab4_20X_files/mux7seg.vhd"/>
+        <Attr Name="ImportTime" Val="1598407732"/>
+        <Attr Name="UsedIn" Val="synthesis"/>
+        <Attr Name="UsedIn" Val="simulation"/>
+      </FileInfo>
+    </File>
+    <File Path="$PSRCDIR/sources_1/imports/Project_group15/uart_final/uart_final.srcs/sources_1/imports/Old_Lab5/lab5top.vhd">
+      <FileInfo>
+        <Attr Name="ImportPath" Val="$PPRDIR/../uart_final/uart_final.srcs/sources_1/imports/Old_Lab5/lab5top.vhd"/>
+        <Attr Name="ImportTime" Val="1598437646"/>
+        <Attr Name="UsedIn" Val="synthesis"/>
+        <Attr Name="UsedIn" Val="simulation"/>
+      </FileInfo>
+    </File>
+    <File Path="$PSRCDIR/sources_1/new/caveman_division.vhd">
+      <FileInfo>
+        <Attr Name="AutoDisabled" Val="1"/>
+        <Attr Name="UsedIn" Val="synthesis"/>
+        <Attr Name="UsedIn" Val="simulation"/>
+      </FileInfo>
+    </File>
+    <Config>
+      <Option Name="DesignMode" Val="RTL"/>
+      <Option Name="TopModule" Val="lab5top"/>
+      <Option Name="TopAutoSet" Val="TRUE"/>
+    </Config>
+  </FileSet>
+  <FileSet Name="constrs_in" Type="Constrs" RelSrcDir="$PSRCDIR/constrs_1">
+    <Filter Type="Constrs"/>
+    <File Path="$PSRCDIR/constrs_1/imports/CS56/Basys3_Master.xdc">
+      <FileInfo>
+        <Attr Name="ImportPath" Val="$PPRDIR/../uart_final/uart_final.srcs/constrs_1/imports/CS56/Basys3_Master.xdc"/>
+        <Attr Name="ImportTime" Val="1598345090"/>
+        <Attr Name="UsedIn" Val="synthesis"/>
+        <Attr Name="UsedIn" Val="implementation"/>
+      </FileInfo>
+    </File>
+    <Config>
+      <Option Name="ConstrsType" Val="XDC"/>
+    </Config>
+  </FileSet>
+  <FileSet Name="utils" Type="Utils" RelSrcDir="$PSRCDIR/utils_1">
+    <Filter Type="Utils"/>
+    <Config>
+      <Option Name="TopAutoSet" Val="TRUE"/>
+    </Config>
+  </FileSet>
+  <Strategy Version="1" Minor="2">
+    <StratHandle Name="Vivado Implementation Defaults" Flow="Vivado Implementation 2018"/>
+    <Step Id="init_design"/>
+    <Step Id="opt_design"/>
+    <Step Id="power_opt_design"/>
+    <Step Id="place_design"/>
+    <Step Id="post_place_power_opt_design"/>
+    <Step Id="phys_opt_design"/>
+    <Step Id="route_design"/>
+    <Step Id="post_route_phys_opt_design"/>
+    <Step Id="write_bitstream"/>
+  </Strategy>
+  <BlockFileSet Type="BlockSrcs" Name="div_gen_0"/>
+</GenRun>
